@@ -27,7 +27,7 @@ const EMAILJS_TEMPLATE_ID = "template_0bbm6om";
 const EMAILJS_PUBLIC_KEY  = "aY-YVm-wvBPVP06TX";
 
 // ---- Thème / UI ----
-const ADMIN_PIN = "2012";
+const ADMIN_PIN = "2424";
 const THEME = {
   primary: "#111827",
   accent: "#FFD100",
