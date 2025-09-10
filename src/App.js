@@ -835,7 +835,6 @@ const Admin = ({ store }) => {
             <input className="input touch" type="password" value={pinInput} onChange={(e)=>setPinInput(e.target.value)} />
           </Field>
           <button className="btn touch" onClick={()=>setPinOK(pinInput === ADMIN_PIN)}>Entrer</button>
-          <div className="muted" style={{ fontSize:12 }}>PIN par défaut: {ADMIN_PIN} (modifiez ADMIN_PIN en haut du code)</div>
         </div>
       </div>
     );
